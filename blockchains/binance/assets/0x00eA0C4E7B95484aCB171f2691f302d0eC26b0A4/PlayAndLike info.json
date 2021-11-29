@@ -1,0 +1,9 @@
+{"name": "PlayAndLike",
+    "website": "https://playandlike.in",
+    "description": "PlayAndLike(PAL) is to create a platform where people can come and entertain themselves with small videos posted by people across the globe and earn the PAL.",
+    "explorer": "https://bscscan.com/token/0x00eA0C4E7B95484aCB171f2691f302d0eC26b0A4",
+    "type": "BEP20",
+    "symbol": "PAL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x00eA0C4E7B95484aCB171f2691f302d0eC26b0A4"}
